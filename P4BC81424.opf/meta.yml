@@ -276,3 +276,8 @@ source_metadata:
       parent: Outlines
 created_at: '2022-03-01T03:50:02.062204'
 last_modified_at: '2022-03-01T03:50:02.062207'
+statistics:
+  total_words: 44270
+  total_non_words: 3377
+quality:
+  non_words_ratio: 0.08
